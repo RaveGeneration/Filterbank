@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" MIDIInputDefault="1" MIDIOutputDefault="1">
+    <inputParams count="46" p0="0" p1="5.5652738192182438226" p2="15.896103896103895181" p3="9.7394136807817570656" p4="0" p5="2" p6="1" p7="0" p8="3.6170860389610397512" p9="7.9393262987013013543" p10="2.9153094462540716236" p11="0.84016184853420217138" p12="8.5016286644951133411" p13="2.9677320846905530516" p14="1.3843648208469065963" p15="-3.8479743485342021714" p16="-3.9096854641693807864" p17="-4.788273615635178615" p18="4" p19="2.6590492671009791081" p20="0" p21="0" p22="-0.19543973941367998037" p23="2.57532573289902178" p24="2" p25="5.3094462540716627075" p26="1.6938110749185675274" p27="0" p28="2.2062041938110743544" p29="6.9561787459283390689" p30="3.5179153094462534135" p31="10" p32="4.0259740259740262047" p33="0" p34="0" p35="100" p36="0" p37="0" p38="0" p39="2" p40="28.1875" p41="-48.234375" p42="21.5" p43="10" p44="1" p45="1"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64"/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="19">
+                    <p0 name="distortion_mode" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="knob_fb_ctrl_SKIN163_nval_animation" value="1"/>
+                    <p3 name="knob_fb_ctrl_SKIN163_nval_animator" value="1"/>
+                    <p4 name="knob_fb_ctrl_SKIN165_nval_animation" value="0.5"/>
+                    <p5 name="knob_fb_ctrl_SKIN165_nval_animator" value="0.5"/>
+                    <p6 name="knob_fb_ctrl_SKIN167_nval_animation" value="0"/>
+                    <p7 name="knob_fb_ctrl_SKIN167_nval_animator" value="0"/>
+                    <p8 name="knob_fb_ctrl_SKIN169_nval_animation" value="1"/>
+                    <p9 name="knob_fb_ctrl_SKIN169_nval_animator" value="1"/>
+                    <p10 name="knob_fb_ctrl_SKIN171_nval_animation" value="0"/>
+                    <p11 name="knob_fb_ctrl_SKIN171_nval_animator" value="0"/>
+                    <p12 name="knob_fb_ctrl_SKIN173_nval_animation" value="0"/>
+                    <p13 name="knob_fb_ctrl_SKIN173_nval_animator" value="0"/>
+                    <p14 name="knob_fb_ctrl_SKIN2_nval_animation" value="0"/>
+                    <p15 name="knob_fb_ctrl_SKIN2_nval_animator" value="0"/>
+                    <p16 name="persistent_param" value="0"/>
+                    <p17 name="root_cell_height" value="485"/>
+                    <p18 name="root_cell_width" value="1372"/>
+                </params>
+                <strings sCount="2">
+                    <s0 name="persistent_string" value="234234"/>
+                    <s1 name="persistent_string2" value="2342344"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
