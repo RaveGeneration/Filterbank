@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" progName="Default" currentPresetFilePath="Default.preset" currentPresetFileRoot="1" MIDIInputDefault="1" MIDIOutputDefault="1" MIDIProgramChangeChannel="-1" cycleNextPrevPresetInBank="0" midiOutForProgramChangeEnabled="0" midiOutForBankSelectEnabled="0">
+    <MIDIController.meta locked="0"/>
+    <MIDINextPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDINextBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <inputParams count="46" p0="0" p1="3" p2="0" p3="10" p4="1" p5="1" p6="1" p7="1" p8="10" p9="10" p10="0" p11="0" p12="0" p13="0" p14="-5" p15="-5" p16="0" p17="0" p18="0" p19="0" p20="0" p21="0" p22="0" p23="10" p24="0" p25="0" p26="0" p27="1" p28="0" p29="5" p30="0" p31="10" p32="0" p33="0" p34="0" p35="100" p36="0" p37="0" p38="1" p39="0" p40="-14" p41="-18" p42="21.5" p43="10" p44="1" p45="1"/>
+    <inputStrings count="3" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1=""/>
+    <internalDSPState/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" skinZoom="1" followHostZoom="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="21">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="distortion_mode" value="0"/>
+                    <p2 name="global_opacity" value="100"/>
+                    <p3 name="knob_fb_ctrl_SKIN183_nval_animation" value="0.5"/>
+                    <p4 name="knob_fb_ctrl_SKIN183_nval_animator" value="0.5"/>
+                    <p5 name="knob_fb_ctrl_SKIN185_nval_animation" value="0.5"/>
+                    <p6 name="knob_fb_ctrl_SKIN185_nval_animator" value="0.5"/>
+                    <p7 name="knob_fb_ctrl_SKIN187_nval_animation" value="0.5"/>
+                    <p8 name="knob_fb_ctrl_SKIN187_nval_animator" value="0.5"/>
+                    <p9 name="knob_fb_ctrl_SKIN189_nval_animation" value="0.5"/>
+                    <p10 name="knob_fb_ctrl_SKIN189_nval_animator" value="0.5"/>
+                    <p11 name="knob_fb_ctrl_SKIN191_nval_animation" value="1"/>
+                    <p12 name="knob_fb_ctrl_SKIN191_nval_animator" value="1"/>
+                    <p13 name="knob_fb_ctrl_SKIN193_nval_animation" value="0.5"/>
+                    <p14 name="knob_fb_ctrl_SKIN193_nval_animator" value="0.5"/>
+                    <p15 name="knob_fb_ctrl_SKIN24_nval_animation" value="1"/>
+                    <p16 name="knob_fb_ctrl_SKIN24_nval_animator" value="1"/>
+                    <p17 name="root_cell_height" value="485"/>
+                    <p18 name="root_cell_width" value="1372"/>
+                    <p19 name="skin_scanner_enabled" value="0"/>
+                    <p20 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
