@@ -1,1 +1,1 @@
-<img width="2744" height="970" alt="filterbank 106 screen" src="https://github.com/user-attachments/assets/e5631aed-0799-4a03-8f02-f53d362e41bc" />
+<img width="2058" height="728" alt="filterbank 111 screen" src="https://github.com/user-attachments/assets/b21f0e07-3290-422e-985c-ad08ebf62826" />
